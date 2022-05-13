@@ -1,3 +1,3 @@
 function doSomething() {
-    console.log("Hello World!");
+    console.log("Hello World bug fixeed!");
 }
