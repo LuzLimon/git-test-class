@@ -4,3 +4,6 @@ function doSomething() {
 function developer() {
     console.log("I am developer");
 }
+function testing() {
+    console.log("testing");
+}
